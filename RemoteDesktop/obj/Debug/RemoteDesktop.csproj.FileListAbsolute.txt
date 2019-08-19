@@ -1,0 +1,10 @@
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csprojAssemblyReference.cache
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.Properties.Resources.resources
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.Server.resources
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.GenerateResource.cache
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+C:\Users\Akhmet\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
